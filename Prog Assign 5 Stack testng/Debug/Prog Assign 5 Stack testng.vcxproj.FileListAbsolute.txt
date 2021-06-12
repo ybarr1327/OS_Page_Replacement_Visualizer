@@ -1,2 +1,0 @@
-C:\Users\icemo\Documents\stuff\Projects\Prog Assign 5 Stack testng\Debug\Prog Assign 5 Stack testng.exe
-C:\Users\icemo\Documents\stuff\Projects\Prog Assign 5 Stack testng\Debug\Prog Assign 5 Stack testng.pdb
