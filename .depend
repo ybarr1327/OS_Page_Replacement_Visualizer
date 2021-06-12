@@ -1,0 +1,4 @@
+main.o: main.cpp pagetable.h LRUReplacement.h DLL.h
+pagetable.o: pagetable.cpp pagetable.h
+DLL.o: DLL.cpp DLL.h
+LRUReplacement.o: LRUReplacement.cpp LRUReplacement.h DLL.h
